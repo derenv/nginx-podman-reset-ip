@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+# SPDX-FileCopyrightText: 2023 Deren Vural <derenv@live.co.uk>
+# SPDX-FileCopyrightText: 2023 Oscar McCabe <oscarmccabe98@gmail.com>
+# SPDX-License-Identifier: MIT
+
 ##
 # Name:
 # reset.sh
