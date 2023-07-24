@@ -1,0 +1,10 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: nginx-podman-reset-ip
+Upstream-Contact: Deren Vural <derenv@live.co.uk>
+Source: https://github.com/derenv/nginx-podman-reset-ip
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...
