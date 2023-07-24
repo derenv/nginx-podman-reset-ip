@@ -1,0 +1,6 @@
+# Variables
+# PLEASE CHANGE THESE!
+DATA_DIR="/home/someuser/nginx_data"
+WEBSITE_URL="someurl.com"
+PROXY_CONFIG_FILE="filename.conf"
+DOCKER_IP_RANGE="172.18.0.*"
