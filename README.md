@@ -4,7 +4,7 @@ SPDX-FileCopyrightText: 2023 Oscar McCabe <oscarmccabe98@gmail.com>
 SPDX-License-Identifier: MIT
 -->
 
-[![License: MIT](https://spdx.org/licenses/MIT.html)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://spdx.org/licenses/MIT.html)
 
 # nginx-podman-reset-ip
 
