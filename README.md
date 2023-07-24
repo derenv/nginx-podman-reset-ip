@@ -30,8 +30,3 @@ bash ./reset.sh
 - [nginx container](https://nginxproxymanager.com/setup/)
 - curl
 - python3
-
-## Credit
-
-@derenv
-@oscarmccabe1998
