@@ -1,0 +1,12 @@
+# SPDX-FileCopyrightText: 2023 Deren Vural <derenv@live.co.uk>
+# SPDX-FileCopyrightText: 2023 Oscar McCabe <oscarmccabe98@gmail.com>
+# SPDX-License-Identifier: MIT
+
+[Unit]
+Description=Update nginx forwarding IP addres for nextcloud-aio-apache
+
+[Service]
+ExecStart=/bin/bash %h/bin/nginx_reset_ip/reset.sh
+
+[Install]
+WantedBy=default.target
